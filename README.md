@@ -3,15 +3,8 @@ This repository contains all supplemental material for the IEEE VIS 2023 paper: 
 
 Harry Li, Gabriel Appleby, Camelia Daniela Brumar, Remco Chang, Ashley Suh
 
-## `VIS_2023__KG_Study__SUPPLEMENTAL_.pdf`
+- `VIS_2023__KG_Study__SUPPLEMENTAL_.pdf`: The main supplementary materials document
 
-The main supplementary materials document
-
-## `Codebook.pdf`
-Our interview codebook
-
-## `KG Interview Slides.pdf`
-Our interview slides
-
-## `KG Participant Survey.pdf`
-The survey we asked our participants to complete
+- `Codebook.pdf`: Our interview codebook
+- `KG Interview Slides.pdf`: Our interview slides
+- `KG Participant Survey.pdf`: The survey we asked our participants to complete
